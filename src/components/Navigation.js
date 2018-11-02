@@ -16,10 +16,10 @@ class Navigation extends Component {
           <br />
           Notes
         </NavTitle>
-        <NavLink to="/New">
+        <NavLink to="/">
           <NavButton>View Your Notes</NavButton>
         </NavLink>
-        <NavLink to="/New2">
+        <NavLink to="add-note">
           <NavButton>+ Create New Note</NavButton>
         </NavLink>
       </MainNavigation>

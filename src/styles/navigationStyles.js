@@ -1,7 +1,5 @@
 // Styled component import
 import styled from 'styled-components';
-// React import
-import React from 'react';
 // React router import
 import { Link } from 'react-router-dom';
 
